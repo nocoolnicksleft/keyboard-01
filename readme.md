@@ -7,7 +7,7 @@ Made with CadSoft Eagle
 
 ###Image
 
-![Faceplate](Images/KBD-A01.JPG)
+![Faceplate](Images/500_KBD-A01.JPG)
 
 ![Faceplate](Images/keyboard01.brd.png)
 
